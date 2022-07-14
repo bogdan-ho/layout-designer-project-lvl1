@@ -1,0 +1,50 @@
+@font-face {
+  font-weight: normal;
+  font-family: 'Open Sans';
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Open Sans';
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: 'Neucha';
+  src: url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+
+  line-height: 1.6em;
+  color: #2A2626;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 34px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2em;
+}
+
+section {
+  width: 1110px;
+
+  margin: 100px 100px;
+}

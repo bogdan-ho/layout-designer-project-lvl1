@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bogdan-ho/layout-designer-project-lvl1/issues"
   },
-  "homepage": "https://github.com/bogdan-ho/layout-designer-project-lvl1#readme"
+  "homepage": "https://github.com/bogdan-ho/layout-designer-project-lvl1#readme",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^14.9.1",
+    "surge": "^0.23.1"
+  }
 }
